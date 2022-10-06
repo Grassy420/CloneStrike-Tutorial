@@ -1,0 +1,933 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "CD2B01ED531CE4C68A1892DABE2A6131F535DBC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B2A7F335FC62A023E1D59DE2ADBD3C72F13800",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "211087F62EFBB7C1BE4972E660D86BC3FFBFC5C0",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EACFA4020082090A51165F6F8F385B9C8ABCC6B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "580BAEC620B37DE8A1FE8FC479D667FE85792074",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6118C2EF81328E746F6736EACA89ADF8A3761CC6",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "DC662FADED5C77B6D4456A8A78B04DCC16D274EC",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "50845FEC1566A808DC71D7294205A2449A052123",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_Helper"
+			]
+		},
+		{
+			"ShaderMapHash": "1B3DCC7DDE14B5773B854D9F07A5C4A5C6BEFF5A",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_Grid"
+			]
+		},
+		{
+			"ShaderMapHash": "69A5E06F15CBF8E3883740B3750D2B3E77122641",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_FavIcon"
+			]
+		},
+		{
+			"ShaderMapHash": "89317B0DE765667CC48200D7FAE2BBDCC3EEAEB3",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_StarParticle",
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_SquareParticleGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "E568A7BB01B4BCD8D4F4DC4E686B7F1027F26503",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_LightCone"
+			]
+		},
+		{
+			"ShaderMapHash": "996A6C65F29C27E09ABE82CFE23B8E826DD57BC4",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/MaterialInstances/M_PureBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "D92073264563F88645ADBD8B306CA01700F8F574",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Tracer_A"
+			]
+		},
+		{
+			"ShaderMapHash": "D77961D015D323B460C34B0EE31F4002700B6960",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "51C7B05DD3F62879F54D0D1972E720772888456B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F40DFD96D8AE3D0F8486C03725DDC2EEC53AD0",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AA03CB707A2A35E6B21885A08ED26D847E4CE1",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B155BF25ABE1B5D74C1CCF6398D60B69E8E7C0A",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7895F3B3EC85C81839B53617DEF4F1A94DA828",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A91267099E00CB6E114581FBC960569A39E5CE2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CE9731DBD31520A0F28233FD6C531B40ED2E593",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "6F28DCCC554551463FEB542EE31EB19F97D07D13",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Misc/HighlightFont"
+			]
+		},
+		{
+			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "4DB7703DDCA04FC828DC79314CB9A43DD77901A0",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_StarCircle",
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Pistol_Streaks_01",
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_AssaultRifle_MuzzleFlash_4x1"
+			]
+		},
+		{
+			"ShaderMapHash": "1540DCF9643668A6BB925B464E2F24C8E903DA9E",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_UtilityDecal"
+			]
+		},
+		{
+			"ShaderMapHash": "52B2CBC268F4B3FB67BDBC76B2921B4C9623757E",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_Helper_Inst2"
+			]
+		},
+		{
+			"ShaderMapHash": "E2D177AF485FFD4746122945A0B7B94D8DE25197",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_HoloLightFunction"
+			]
+		},
+		{
+			"ShaderMapHash": "B62ED4F74644376F3606830602BCFC0245442F97",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_Refract"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Source/Textures/T_CustomMetal_M_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BDEA51EF53B185DE179D9559459B11810F8F0659",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_Channel"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BCE0EFFD138CA8550D792410805203CDA7B865",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/Weapons/Materials/M_WeaponMaster_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0A570891719D22B29B1A264E55DB3D715FF53270",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Woodchips_8x1_01"
+			]
+		},
+		{
+			"ShaderMapHash": "19350454790CBA93AC4E7081EFB63DB8406B3857",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_SparksImpact_2x2_01",
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_RockSmall_01",
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Pistol_MuzzleFlash_4x1_A"
+			]
+		},
+		{
+			"ShaderMapHash": "CD7F75E74FCDA8181B534D09F79AA4DF3F01FF47",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Smoke_8x8_B_01"
+			]
+		},
+		{
+			"ShaderMapHash": "D8E3E89251E86BF45FFEC5667DC6ADA76E50387F",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_SmokeSimple_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B93F09861EF1EE745F667BF6765F993E67FEB879",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_SmokeRibbon_01"
+			]
+		},
+		{
+			"ShaderMapHash": "16D7B812C4D63FD609DA0F8A10705311C4134641",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Shockwave_Refraction_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C7F66E2D5A92431B983D47DE75E961E818B8EA0D",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_RockMesh_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0CD040915D093E42025FDC6D08516684011F90",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_LightRay_01"
+			]
+		},
+		{
+			"ShaderMapHash": "AA51EA352DC7AE92C3CBAAB6D601259E890ACD06",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Knife_RibbonTrail_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B9A8D619DB78A71E03DDD5417373C3521B3402F5",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Pistol_Smoke_2x2_A"
+			]
+		},
+		{
+			"ShaderMapHash": "131E0B64C39B77CB1A3EAAAF18901A2131863DB6",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Explosion_8x8_A_01"
+			]
+		},
+		{
+			"ShaderMapHash": "EFF4488740F9CBF7365661B46C51E016C92154F5",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Ember_Speed_01"
+			]
+		},
+		{
+			"ShaderMapHash": "435053286D1D71C539C2190C6F42B432B1A15CEE",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_Debris_Tileable_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9BCA5EF0DC9E1273B70FCBEE5AFCF8C406D70CE3",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Maps/LevelContent/Architecture/M_1Meter_01"
+			]
+		},
+		{
+			"ShaderMapHash": "941BE2769A674B2F86E84818CF290A2DD20BF9E1",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf"
+			]
+		},
+		{
+			"ShaderMapHash": "C55D2E825D1F98CCA2D3BDA46E61781865551B37",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Troll/Materials/CharM_Troll_Poison"
+			]
+		},
+		{
+			"ShaderMapHash": "0715FAA8010EC272CE30EC7A4760AC3B855E6C3B",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Troll/Materials/CharM_Troll_Helmet"
+			]
+		},
+		{
+			"ShaderMapHash": "2DC5A75DDD0C6B5C38636049F42B69936162DF3F",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Troll/Materials/CharM_Troll"
+			]
+		},
+		{
+			"ShaderMapHash": "B5A8694E0682116E6BD1302F308900E4165B32F5",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Task_Master/Materials/M_Enemy_TaskMaster_Lantern"
+			]
+		},
+		{
+			"ShaderMapHash": "8D8D70C1641E666029BD40856B40C909F210E735",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Task_Master/Materials/M_Enemy_Task_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "21B515266CA81573B69EDDF9A67CA5D807B6909D",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Spiderling/Materials/CharM_Spiderling_Magma"
+			]
+		},
+		{
+			"ShaderMapHash": "D63E1A987BDE3C89DDFD5E1DA50D3EDA38D398C6",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Spiderling/Materials/CharM_Spiderling"
+			]
+		},
+		{
+			"ShaderMapHash": "4E048A0C0800AF458C1109D91DAB2CED9654F4C1",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Spiderling/Materials/CharM_Spiderling_redish"
+			]
+		},
+		{
+			"ShaderMapHash": "E79C7A757D7A27D74FA0E3E74367333E10EFCEBF",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Materials/CharM_Robo_Golem"
+			]
+		},
+		{
+			"ShaderMapHash": "D8B0A33B34FE7C1B9BAE7AE42860FFE45567E0A2",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Materials/CharM_Master_Grunt"
+			]
+		},
+		{
+			"ShaderMapHash": "A20CC0E37B757091087191C3B674A1C8ED61D69B",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Materials/M_Master_Grunt_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "2089BC1A8FEE0DE638F0C6874CEB33029F414BCF",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/Materials/M_Gruntling_weapons"
+			]
+		},
+		{
+			"ShaderMapHash": "36582B2119EB2FF00B10600FF7F181361A2171F0",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/Materials/CharM_Gruntling_Scud_C"
+			]
+		},
+		{
+			"ShaderMapHash": "F9453E5FCD116B0AE37A3F9365420F8F9BF16081",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Materials/CharM_Gruntling_Guardian"
+			]
+		},
+		{
+			"ShaderMapHash": "29AD06F9E4DE1DD59A04C24BA7C58BC8CFE85EDB",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Materials/CharM_Gruntling_Glacer"
+			]
+		},
+		{
+			"ShaderMapHash": "FB3D1377E054EBF1971E7022D7BED1D6F89A3094",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Avalanche/Materials/CharM_Gruntling_Avalanche"
+			]
+		},
+		{
+			"ShaderMapHash": "256BDAEAC863824334CB4D8A0A39C4BE984098BB",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Materials/CharM_Gruntling"
+			]
+		},
+		{
+			"ShaderMapHash": "45834FB3EC3AA6C7AA47379B79C385FDC065083E",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Materials/CharM_Greater_Spider_Ice"
+			]
+		},
+		{
+			"ShaderMapHash": "9D0BB0F8F1E55FE5C53EAA0F3485DF1304EBC0AA",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Materials/CharM_Greater_Spider"
+			]
+		},
+		{
+			"ShaderMapHash": "A39D3A3069BF5FAB6AED658345B1DD812625E285",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Materials/CharM_Greater_SpiderBoss_Ice"
+			]
+		},
+		{
+			"ShaderMapHash": "A95DD5AE705A4E3DBDAEB6B13052CA38F8070310",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Materials/CharM_Greater_Spider_BossFire"
+			]
+		},
+		{
+			"ShaderMapHash": "AE5DDB5B0FCAF3092B6798C12F3B786B41AADA6A",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Golem/Materials/CharM_Golem_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "EE8EC7E99C69387F8CC61A93463EFA348F33944E",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Golem/Materials/CharM_Fire_Golem"
+			]
+		},
+		{
+			"ShaderMapHash": "95A004F51EEED36A02E869B937EF0C584ED2FCFB",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Frost_Giant/Materials/CharM_Frost_Giant"
+			]
+		},
+		{
+			"ShaderMapHash": "E579C79C345E3EE7E927B2F607490D4FCB314C22",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Forge_King/Materials/Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "E80E52E0B46F929C1B00160EEA15134CB9ED75D9",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Forge_King/Materials/M_Enemy_Forge_King"
+			]
+		},
+		{
+			"ShaderMapHash": "B487D38367CCAB05EB7BC91F270815E8E47A81FB",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Creature_Spider/Materials/CharM_Creature_Spider_Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "D79751F45C31563CC3534D388D2AD27EB7D95A91",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Creature_Spider/Materials/CharM_Creature_Spider"
+			]
+		},
+		{
+			"ShaderMapHash": "F4AB76B8A3F20E6003BEC17B297C507E3C31B817",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Clot_Worm/Materials/M_Clot_Worm"
+			]
+		},
+		{
+			"ShaderMapHash": "146F10CBB1FAA2A394A50725FFB89138C2C5B5F9",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Chicken/Materials/M_EnemyChicken"
+			]
+		},
+		{
+			"ShaderMapHash": "2CEAFAE81E3ED391BA0E877FDEB359031B4D7CE9",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Bear/Materials/M_Bear_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "F4EA7A3CC7168C7C8D03F88EA17549206C5D68B5",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Elemental_Robot/Materials/M_Elemental_Robot_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "D9D031C0E4F2DCFC96E6C76ECF434F01EA12287E",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_RDS_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "49FE0B6335EB232E2A76F690B4EF4E739AC2EA9F",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "9765953C25752B6655A3F1A718388A2EDE97BE49",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Scope_Lens_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "34416074F0A8E4FEA619797CD5233E0CA98D2CEF",
+			"Assets": [
+				"/Game/Assets/Charecter/textures/Boss_specular_ncl1_3_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AADFDB861D65F87036ADBCA3A42144E9889FFA79",
+			"Assets": [
+				"/Game/Assets/Charecter/textures/Eyes_MAT_ncl1_1",
+				"/Game/Assets/Charecter/textures/Eyes_MAT",
+				"/Game/Assets/Charecter/textures/Skin_MAT",
+				"/Game/Assets/Charecter/textures/Cigar_Mat",
+				"/Game/Assets/Charecter/textures/Clothes_MAT_ncl1_1",
+				"/Game/Assets/Charecter/textures/Clothes_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55EA1DC806B30DD6AE1628892C72F7943F02A8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C7E470E5FFD2F2BAC5BDC3BBAD2056282B68D9E3",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_LightPulse"
+			]
+		},
+		{
+			"ShaderMapHash": "473C27BDACBA12A4F632A2BBE54A2D4F42645C63",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_LightPillar"
+			]
+		},
+		{
+			"ShaderMapHash": "F6F93641100D98FE1B7CE8759E1578C26CEAE0A7",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "51A50921C959ED1DB20CCF5ACDF9EAE1C432DE67",
+			"Assets": [
+				"/Game/Marketplace/MilitaryWeapDark/FX/Materials/M_GlowSphere_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BD41655F43AB2718B3D2CFAC8F952B722BD2C9",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Materials/CharM_Greater_Spider_Boss"
+			]
+		},
+		{
+			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E171CFA61F0313D35C414F4721E393617AAFB691",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "14CC31EF34BEE66179FCF777D126490DD5DFA5DD",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "648B34FBF1A6265873DAA2FDE756E9E90165B27A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "08AB2FB6F0B0D7F55EC432ED817F96CBDE053FE7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A3243E789DF89DA28C883FA7D15243F072D7BD59",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_01"
+			]
+		},
+		{
+			"ShaderMapHash": "39F8D1FDECD128A4F61AA9863AD2919B40E3F127",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4_Pattern",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Camo",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_LeafSpray",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Ka47/M_KA47_Pattern",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val_Black_Striped",
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val_Black_Camo"
+			]
+		},
+		{
+			"ShaderMapHash": "7FF2CEE8FDBF56EB14A5109DD6FF9B50D190B7C6",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_SquareParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "3808A777C2CA96964F6C728B873289EBE6F49D24",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Particles_Lit"
+			]
+		},
+		{
+			"ShaderMapHash": "840AA083BCD900CCFF7C730065A70A69398BCEEC",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Maps/LevelContent/Architecture/M_CycWall_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2A7B579AF26139DF23AD3CAD742D8DF407B9B407",
+			"Assets": [
+				"/Game/Marketplace/InfinityBladeAdversaries/Maps/LevelContent/Architecture/M_CycRoom_01"
+			]
+		},
+		{
+			"ShaderMapHash": "617D41D016316969E0DAA0027961D064790CAC90",
+			"Assets": [
+				"/Game/Marketplace/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D24D903C02A52103EF8B42859E4470603A6AC10E",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "C17DCB164E4026A5CDBC7782545CE9FF9498A45B",
+			"Assets": [
+				"/Game/Marketplace/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens_NoAlpha"
+			]
+		},
+		{
+			"ShaderMapHash": "0241BC186F21D4DF74E1FDBF0991B6F4F5CB1AC4",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/Materials/M_Utility_DemoFloat"
+			]
+		},
+		{
+			"ShaderMapHash": "344B5ED1D55D681ABF239368F126258695EAAE48",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_Tutorial"
+			]
+		},
+		{
+			"ShaderMapHash": "B85BA4500AD04EEAABE0D301D308FE8314D1C1B0",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor"
+			]
+		},
+		{
+			"ShaderMapHash": "1E6B49E6E29165C01A5D1AEF833B2748DD13F68A",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Orientation"
+			]
+		},
+		{
+			"ShaderMapHash": "5154E2C8D5D6DDAD9AE758AD86BDA0BB17EA94AA",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_MultiColor"
+			]
+		},
+		{
+			"ShaderMapHash": "2EB8BE7DE0B10693077FAAD2EEC21EFFF74582FA",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Modern"
+			]
+		},
+		{
+			"ShaderMapHash": "58003AE11A8580521F1237C72382870E3177A382",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_HoloRefract"
+			]
+		},
+		{
+			"ShaderMapHash": "70ED2A15A5550F9F816DF2637ABA9CCFAC8ED65B",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Holographic"
+			]
+		},
+		{
+			"ShaderMapHash": "943D8EF974B0708F4AB07A0CF93C41EFAF56DD38",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Glowing_MultiColor"
+			]
+		},
+		{
+			"ShaderMapHash": "A534C5D21D9B2AA0B681CFFE6DE3A2ADADABBCC6",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Architectural"
+			]
+		},
+		{
+			"ShaderMapHash": "E4466D4E8C41A1FAF16E241DC316025D20473412",
+			"Assets": [
+				"/Game/Marketplace/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "9B469F7868E8692446AD6818D34D3774523A715B",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Template"
+			]
+		},
+		{
+			"ShaderMapHash": "008A0D360E113C3264D760DA69DF0E41A3C661EB",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_PanelCustom"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8FEBF6056E8052A73BD11EFC781E6FD82D111E",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_MetalCustom"
+			]
+		},
+		{
+			"ShaderMapHash": "9351B3A73B6E29220DCAB3792FA080ACDFA63713",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Hexagon"
+			]
+		},
+		{
+			"ShaderMapHash": "6C45C31669D1DC54EAAD05EB921575E22904B8B8",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/MaterialInstances/M_Tut_SmallGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "3FCCC4F7B47AFB2414766DDEDDE3E63696568A94",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_DangerZone"
+			]
+		},
+		{
+			"ShaderMapHash": "CD1D3675EB289544EDAA9BD54428B61A6D1FDE76",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/MaterialInstances/M_Tut_Holo_Tiny",
+				"/Game/Marketplace/SuperGrid/TutorialLevel/MaterialInstances/M_Tut_HoloD",
+				"/Game/Marketplace/SuperGrid/TutorialLevel/MaterialInstances/M_Tut_HoloB",
+				"/Game/Marketplace/SuperGrid/TutorialLevel/MaterialInstances/M_Tut_HoloA"
+			]
+		},
+		{
+			"ShaderMapHash": "90AA8AEF937550C970BC038770359BE93192024A",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/Utility/M_Tut_DocMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5C34351E3293892080C0EE5F1B77DB97EE1661E4",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/TutorialLevel/MaterialInstances/M_Tut_PlateB"
+			]
+		},
+		{
+			"ShaderMapHash": "EE82DCC51A900717533E057F240AD04CB91B95B9",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_White"
+			]
+		},
+		{
+			"ShaderMapHash": "CF6A54C5BA96397E9F14F33445E5A1AE49096AEB",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_Dark"
+			]
+		},
+		{
+			"ShaderMapHash": "29A17E708C1DB6E94581655F2A057ACF42D80D67",
+			"Assets": [
+				"/Game/Marketplace/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrangeC"
+			]
+		}
+	]
+}
